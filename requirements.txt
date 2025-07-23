@@ -13,7 +13,7 @@ requests>=2.25.0
 # 1. CUDA-compatible GPU
 # 2. CUDA toolkit installed
 # 3. XGBoost compiled with GPU support
-xgboost>=1.5.0
+# xgboost>=1.5.0
 
 # Alternative installation for GPU support:
 # pip install xgboost[gpu]
